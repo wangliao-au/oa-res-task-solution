@@ -6,11 +6,11 @@ You can preview the application by navigating to [todo] in a web browser.
 
 ## Prerequisites
 
-React: https://reactjs.org/
-Node.js: https://nodejs.org/en/docs/
-TypeScript: https://www.typescriptlang.org/docs/
-Tailwind CSS: https://tailwindcss.com/docs
-Next.js: https://nextjs.org/docs
+- React: https://reactjs.org/
+- Node.js: https://nodejs.org/en/docs/
+- TypeScript: https://www.typescriptlang.org/docs/
+- Tailwind CSS: https://tailwindcss.com/docs
+- Next.js: https://nextjs.org/docs
 
 ## Installation
 
