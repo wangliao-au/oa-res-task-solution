@@ -1,13 +1,16 @@
 # My Contact List App
 
-This is a simple Contacts application built with ReactJS that allows you to browse your contacts. The application fetches data from https://jsonplaceholder.typicode.com/users.
+This is a simple Contacts application built with **React, TypeScript, TailwindCSS, and NextUI Beta** that allows you to browse your contact information and view your contact's location via Google Maps Embed API. The application fetches data from https://jsonplaceholder.typicode.com/users.
 
 You can preview the application by navigating to [todo] in a web browser. 
 
 ## Prerequisites
 
-To run this application, you will need to have Node.js installed on your machine. 
-You can download and install Node.js from the official website: https://nodejs.org/en/download/
+React: https://reactjs.org/
+Node.js: https://nodejs.org/en/docs/
+TypeScript: https://www.typescriptlang.org/docs/
+Tailwind CSS: https://tailwindcss.com/docs
+Next.js: https://nextjs.org/docs
 
 ## Installation
 
