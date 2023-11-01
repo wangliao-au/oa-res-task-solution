@@ -2,7 +2,7 @@
 
 This is a simple Contacts application built with ReactJS that allows you to browse your contacts. The application fetches data from https://jsonplaceholder.typicode.com/users.
 
-You can preview the application by navigating to http://ec2-origin.liao.sh:3425/ in a web browser. 
+You can preview the application by navigating to [todo] in a web browser. 
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ You can download and install Node.js from the official website: https://nodejs.o
 
 1. Clone this repository to your local machine using the following command:
 
-`git clone https://github.com/your-username/contact-list-app.git`
+`git@github.com:wangliao-au/oa-res-task-solution.git`
 
 2. Navigate to the project directory:
 
@@ -40,7 +40,7 @@ To stop the application, press `Ctrl + C` in the terminal window where the appli
 
 ## Credits
 
-This application was built by [Wang Liao](https://github.com/lia0wang).
+This application was built by [Wang Liao](https://github.com/wangliao-au).
 
 
 ## License
