@@ -2,7 +2,7 @@
 
 This is a simple Contacts application built with **React, TypeScript, TailwindCSS, and NextUI Beta** that allows you to browse your contact information and view your contact's location via Google Maps Embed API. The application fetches data from https://jsonplaceholder.typicode.com/users.
 
-You can preview the application by navigating to [todo] in a web browser. 
+You can preview the application by navigating to [https://resonate.liao.sh/] in a web browser. 
 
 ## Prerequisites
 
